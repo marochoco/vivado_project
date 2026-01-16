@@ -1,12 +1,12 @@
-# vivado_project
+# zybo-7000
 
 ## 概要
-このプロジェクトの内容（例：LEDを点滅させる回路、など）
+zybo-7000を用いたプロジェクト
 
 ## 開発環境
-* Vivado 202x.x
-* 使用ボード: Arty A7 / Zybo Z7 など
+* Vivado 2019.1
+* 使用ボード: Zybo-7000
 
 ## 使い方
-1. Vivadoで `vivado_project.xpr` を開く
+1. Vivadoで `.xpr` を開く
 2. Generate Bitstream を実行する
